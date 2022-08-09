@@ -1,0 +1,13 @@
+distro==1.7.0
+django-crispy-forms==1.14.0
+docker==5.0.3
+docker-compose==1.29.2
+dockerpty==0.4.1
+docopt==0.6.2
+labelImg==1.8.6
+PyQt5==5.15.6
+python-dotenv==0.20.0
+pywin32==227
+PyYAML==5.4.1
+texttable==1.6.4
+websocket-client==0.59.0
